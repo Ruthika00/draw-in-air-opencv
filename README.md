@@ -20,7 +20,7 @@ This project allows users to draw on screen using hand gestures captured through
 ## ▶️ How to Run
 
 1. Clone the repository:
-git clone https://github.com/your-username/air-draw-opencv.git
+git clone https://github.com/Ruthika00/air-draw-opencv.git
 
 2. Install dependencies:
 pip install -r requirements.txt
